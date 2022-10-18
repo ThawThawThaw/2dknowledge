@@ -1,0 +1,17 @@
+.delete_button {
+    color:white;
+}
+
+.delete_button:hover {
+    color: white;
+}
+
+.page-item.active .page-link {
+    border: none;
+    background-color: #212529!important;
+}
+
+.custom_button {
+    font-size: 1em!important;
+}
+  

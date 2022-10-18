@@ -1,0 +1,32 @@
+.photo_design {
+    width: 100%;
+    height: 210px;
+    object-fit: cover;
+}
+
+.edit_button {
+    color: black;
+}
+
+.calendar_edit_button {
+    background-color: #25292D;
+    border: none;
+    color: white;
+    margin-top: -2px;
+    margin-left: -15px;
+}
+
+
+.delete_button {
+    border: none;
+    background-color: white;
+    margin-left: -15px;
+}
+
+.buttons {
+    color: white;
+}
+
+.buttons:hover {
+    color: white;
+}
